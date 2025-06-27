@@ -8,12 +8,12 @@ o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen. '''
 
-'''a=float(input("Enter the first number: "))
+a=float(input("Enter the first number: "))
 b=float(input("Enter the second number: "))
 print("The sum of these a and b numbers is - ",a+b)
 print("The subtraction  of these a and b numbers is - ",a-b)
 print("The multiplication of these a and b numbers is - ",a*b)
-print("The division of these a and b numbers is - ",a/b)'''
+print("The division of these a and b numbers is - ",a/b)
 
 '''Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
